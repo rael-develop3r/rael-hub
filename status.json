@@ -1,0 +1,72 @@
+{
+    "games": [
+
+        {
+
+            "id": "2294168059",
+            "name": "The mimic",
+            "status": "Working 🟢",
+            "execSupport": [
+                {
+                    "label": "Real 🟢",
+                    "link": "https://projectreal.gg/"
+                },
+                {
+                    "label": "Velocity 🟢",
+                    "link": "https://getvelocity.llc/"
+                },
+                {
+                    "label": "Madium 🟢",
+                    "link": "https://getmadium.net/"
+                },
+                {
+                    "label": "Xeno 🟢",
+                    "link": "https://www.xeno.now/"
+                },
+                {
+                    "label": "Solara 🟢",
+                    "link": "https://getsolara.dev/"
+                },
+                {
+                    "label": "Delta 🟢",
+                    "link": "https://deltaexploits.gg/"
+                }
+            ]
+
+        },
+        {
+
+            "id": "5569032992",
+            "name": "Dandy's world",
+            "status": "Working 🟢",
+            "execSupport": [
+                {
+                    "label": "Real 🟢",
+                    "link": "https://projectreal.gg/"
+                },
+                {
+                    "label": "Velocity 🟢",
+                    "link": "https://getvelocity.llc/"
+                },
+                {
+                    "label": "Madium 🟢",
+                    "link": "https://getmadium.net/"
+                },
+                {
+                    "label": "Xeno 🟢",
+                    "link": "https://www.xeno.now/"
+                },
+                {
+                    "label": "Solara 🟢",
+                    "link": "https://getsolara.dev/"
+                },
+                {
+                    "label": "Delta 🟢",
+                    "link": "https://deltaexploits.gg/"
+                }
+            ]
+
+        }
+
+    ]
+}
